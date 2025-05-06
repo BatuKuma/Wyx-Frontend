@@ -1,0 +1,17 @@
+.wyx-button {
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.notifications {
+  background: #f0f0f0;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+}
